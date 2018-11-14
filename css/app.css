@@ -1,0 +1,27 @@
+header h1 {
+    margin-bottom: 0;
+}
+
+header {
+    border-bottom: 5px solid #7d97ad;
+}
+
+.hero-space {
+    border: 1px solid lightgray;
+}
+
+.section-header {
+    text-align: center;
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Noto Sans", Arial, Helvetica, sans-serif;
+    
+    color: #333;
+}
